@@ -1,5 +1,4 @@
 const forbiddenWords = [
-    "9447",
     "Idiris Muumin",
     "Minnesota",
 ];
