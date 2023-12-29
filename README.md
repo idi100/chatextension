@@ -1,5 +1,5 @@
 # chatextension
-Chatgpt Chrome Extension
+Chatgpt Guard Chrome Extension
 
 This is a project about my first Chrome extension.
 
