@@ -11,7 +11,7 @@ Improvements:
 The original extension did not work if the information was copied and pasted; I made sure the filter worked regardless.
 
 
-In the live demo below, the filter is shown working. I typed and copy & pasted to make sure, it worked. 
+In the live demo below, the filter is shown working. I made sure to type and copy & paste the information to make sure it worked both ways. 
 
 https://github.com/idi100/chatextension/assets/108689627/23d86bdd-623f-4f0a-9b77-daefaea7209d
 
