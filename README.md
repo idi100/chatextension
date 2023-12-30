@@ -11,3 +11,7 @@ Improvements:
 The original extension did not work if the information was copied and pasted; I made sure the filter worked regardless.
 
 
+
+
+https://github.com/idi100/chatextension/assets/108689627/23d86bdd-623f-4f0a-9b77-daefaea7209d
+
